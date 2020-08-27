@@ -1,6 +1,6 @@
 <!-- Add banner here -->
 
-# Project Title
+## Humidity Detection - Statistical Model
 
 <!-- Add buttons here -->
 
